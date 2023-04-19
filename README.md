@@ -12,7 +12,14 @@ eg:({“Scraped Word”            : “Elon Musk”,
 
 # Twitter Scraping:
   Social media scraping is one of the best things to happen to researchers looking to gather information about a particular social media platform.With this, you can extract the required data for your analysis while saving your time, effort, and money because bots automate the process. Twitter scraping is easy, as there are numerous Twitter scrapers in the market to pick from.
-  
+
+### Step 1:
+import the necessary libraries/modules
+
+* snscrape is used to scrape data from Twitter
+* pandas is used for data manipulation
+* pymongo is used to connect to MongoDB
+* streamlit is used to build the web app.
   
 
   
