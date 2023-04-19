@@ -21,7 +21,7 @@ import the necessary libraries/modules
 * pymongo is used to connect to MongoDB
 * streamlit is used to build the web app.
 
-~~~python
+~~~ python
 import snscrape.modules.twitter as tw
 import pandas as pd
 import pymongo
